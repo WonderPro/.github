@@ -4,8 +4,10 @@ Become a **Pro** in **Pro**gramming
 _An initiative by WonderBiz Technologies._
 
 
+____
+____
 
-WonderPro : the WonderBiz Programming Accelerator is an initiative taken up by WonderBiz Technologies Pvt. Ltd. to promote programming skills among students. 
+> WonderPro : the WonderBiz Programming Accelerator is an initiative taken up by WonderBiz Technologies Pvt. Ltd. to promote programming skills among students. 
 In this program, students from various streams of engineering colleges will be guided and mentored for studying programming.
 
 ### Key benefits
@@ -45,7 +47,7 @@ There are two student coordinators who will manage this program and ensure that 
 ### What will I gain from Meetups?
 You will be able to get all your concepts and doubts cleared during the meetups. Also discussions in the meetup will be related to which is something not taught in the college. This will enable you to get an insight as to what happens in the industry. 
 
-### Will I get any kind of credits or internships for this?
+### Is there any internship or work over here?
 No. This is a program which is aimed at teaching and guiding students and won't burden you with any kind of internship or work. 
 
 ### Will I get any kind of certification for this?
