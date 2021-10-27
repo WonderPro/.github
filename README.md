@@ -10,6 +10,10 @@ ____
 > WonderPro : the WonderBiz Programming Accelerator is an initiative taken up by WonderBiz Technologies Pvt. Ltd. to promote programming skills among students. 
 In this program, students from various streams of engineering colleges will be guided and mentored for studying programming.
 
+[More about WonderBiz Technologies.](https://kaustubh.clickfunnels.com/homepage)
+
+
+
 ### Who should Join
 - Those who want to learn C or Python along side college
 - Those who are absolute beginners with 0 coding knowledge in C (or those who are new at Python).
@@ -29,7 +33,6 @@ All the content we provide is **beginner friendly**. We make sure that your time
 
 
 
-[More about WonderBiz Technologies.](https://kaustubh.clickfunnels.com/homepage)
 ____
 ## FAQs
 
