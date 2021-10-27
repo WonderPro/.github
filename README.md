@@ -24,7 +24,7 @@ In this program, students from various streams of engineering colleges will be g
 
 ___
 
-### Vedio vs content
+### Video vs content
 All the content we provide is **beginner friendly**. We make sure that your time is not wasted as well as you You don’t get better at swimming by watching others. Coding is no different. watching others code doesn't help you much. Videos are holding you back. The average video tutorial is spoken at 150 words per minute, while you can read at 250. That's why we believe in a balance between written content and videos.
 
 
