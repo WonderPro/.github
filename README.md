@@ -1,5 +1,5 @@
 # WonderPro : WonderBiz Programming Accelerator 
-Become a **Pro** in **Pro**gramming
+Become a **Pro** in **Pro**gramming from scratch.
 ---
 _An initiative by WonderBiz Technologies._
 
@@ -10,10 +10,23 @@ ____
 > WonderPro : the WonderBiz Programming Accelerator is an initiative taken up by WonderBiz Technologies Pvt. Ltd. to promote programming skills among students. 
 In this program, students from various streams of engineering colleges will be guided and mentored for studying programming.
 
+### Who should Join
+- Those who want to learn C or Python along side college
+- Those who are absolute beginners with 0 coding knowledge in C (or those who are new at Python).
+- Those who want to score better in PIC (sem 1) and Python (sem2).
+- Those who want to take their coding skills to the next level and ace comps interviews.
+
 ### Key benefits
 - Kickstart your programming career using curated content and support.
 - Score better in PIC (programming in C) covered in the first semester at the college.
-- Build a network of focused peers.
+- Understand C in a better manner.
+
+
+___
+
+### Vedio vs content
+All the content we provide is **beginner friendly**. We make sure that your time is not wasted as well as you You don’t get better at swimming by watching others. Coding is no different. watching others code doesn't help you much. Videos are holding you back. The average video tutorial is spoken at 150 words per minute, while you can read at 250. That's why we believe in a balance between written content and videos.
+
 
 
 [More about WonderBiz Technologies.](https://kaustubh.clickfunnels.com/homepage)
@@ -39,7 +52,7 @@ There will be two parallel tracks, one for Python and one for C. Content will be
 In case you are too busy to study the content or solve exercises, you can still access the material provided anytime, once you are a part of this group. Morever even the discussions on the whatsapp group or the meetups will enhance your knowledge.
 
 ### Who would be my mentors?
-There will be three mentors in total. These mentors are students just like you but have a deep expertise in coding. Morever ther will always be experianced personell from WonderBiz to support in case of any shortfall.
+There will be three mentors in total. These mentors are students just like you but have a deep expertise in coding. Morever there will always be experianced personell from WonderBiz to support in case of any shortfall.
 
 ### Who is managing this?
 There are two student coordinators who will manage this program and ensure that there are no shortfalls.
