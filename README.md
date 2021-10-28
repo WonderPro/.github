@@ -42,7 +42,7 @@ This program is targeted at engineering students who are at novice to intermedia
 ### What is this? 
 This is just a collaborative discussion platform organized by WonderBiz Technologies to guide and mentor students. The main objective of this program is to inspire and motivate students to learn programming. 
 
-### Will this course improve my college C.G.P.A?
+### Will this course improve my college CGPA?
 Yes. This course covers the C programming Language as well as Python, both of which are included in the first semister for all branches.
 
 ### I have no background of Coding can I join?
